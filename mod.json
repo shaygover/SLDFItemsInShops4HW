@@ -1,0 +1,16 @@
+{
+    "Name": "SLDFItemsInShops4HW",
+    "Enabled": true,
+    
+    "DependsOn": ["SLDFItemsInShops"],
+
+    "Version": "0.1.0",
+    "Description": "Adds Heavy Metal upgrades to SLDFItemsInShops",
+    "Author": "tharbad08",
+    "Website": "",
+    "Contact": "Use github Issues",
+
+    "Manifest": [
+        { "Type": "ItemCollectionDef", "Path": "items", "ShouldAppendText": true }
+    ]
+} 
