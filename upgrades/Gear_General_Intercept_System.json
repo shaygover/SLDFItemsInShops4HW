@@ -1,0 +1,13 @@
+{
+    "Description" : {
+        "Cost" : 1400000,
+        "Rarity" : 10,
+        "Purchasable" : true,
+        "Manufacturer" : "Garret",
+        "Model" : "",
+        "UIName" : "Intercept System",
+        "Id" : "Gear_General_Intercept_System",
+        "Name" : "Intercept System",
+        "Details" : "The Assassin's unique Intercept System makes the 'Mech an unparalleled hunter-killer against lighter units. Its highly specialized predictive trajectory tracking allows it to ignore 3 EVASIVE charges on its targets."
+    }
+}

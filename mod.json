@@ -11,6 +11,7 @@
     "Contact": "Use github Issues",
 
     "Manifest": [
-        { "Type": "ItemCollectionDef", "Path": "items", "ShouldAppendText": true }
+        { "Type": "ItemCollectionDef", "Path": "items", "ShouldAppendText": true },
+        { "Type": "UpgradeDef", "Path": "upgrades", "ShouldMergeJSON": true }
     ]
 } 
