@@ -1,1 +1,2 @@
-
+- Picture
+- Better readme
