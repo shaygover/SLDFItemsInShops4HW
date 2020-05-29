@@ -1,6 +1,6 @@
 {
     "Description" : {
-        "Cost" : 30000000,
+        "Cost" : 3500000,
         "Rarity" : 10,
         "Purchasable" : true,
         "Manufacturer" : "Defiance",
@@ -46,7 +46,6 @@
     "ComponentTags" : {
         "items" : [
             "component_type_stock",
-            "BLACKLISTED",
 			"BUILT-IN",
         ],
         "tagSetSourceFile" : ""
