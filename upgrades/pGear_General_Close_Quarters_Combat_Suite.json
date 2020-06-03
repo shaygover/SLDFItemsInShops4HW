@@ -1,4 +1,7 @@
 {
+    "StatName" : null,
+    "RelativeModifier" : 0,
+    "AbsoluteModifier" : 0,
     "Description" : {
         "Cost" : 800000,
         "Rarity" : 10,
@@ -17,7 +20,7 @@
     "ComponentSubType" : "NotSet",
     "PrefabIdentifier" : "",
     "InventorySize" : 2,
-    "Tonnage" : 0,
+    "Tonnage" : 1,
     "AllowedLocations" : "CenterTorso",
     "DisallowedLocations" : "All",
     "CriticalComponent" : false,
@@ -178,7 +181,6 @@
     ],
     "ComponentTags" : {
         "items" : [
-			"BUILT-IN",
         ],
         "tagSetSourceFile" : ""
     }
