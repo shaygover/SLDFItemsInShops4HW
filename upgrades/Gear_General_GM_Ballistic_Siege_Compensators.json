@@ -13,5 +13,9 @@
         "Name" : "Ballistic Siege Compensators",
         "Details" : "The integrated Ballistic Siege Compensators of the Annihilator turn it into an indomitable killing machine. Specially tuned to the behemoth's stature and stride, this equipment increases maximum stability and Ballistic weaponry damage.",
         "Icon" : "UixSvgIcon_specialEquip_System"
+    },
+    "ComponentTags" : {
+        "items" : [    ],
+        "tagSetSourceFile" : ""
     }
 }

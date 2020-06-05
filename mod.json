@@ -4,7 +4,7 @@
     
     "DependsOn": ["SLDFItemsInShops"],
 
-    "Version": "0.1.4",
+    "Version": "0.1.5",
     "Description": "Adds Heavy Metal upgrades to SLDFItemsInShops",
     "Author": "tharbad08",
     "Website": "",
